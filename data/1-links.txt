@@ -1,0 +1,51 @@
+Code Repositories
+
+https://github.com/ (as you mentioned)
+https://gitlab.com/
+https://bitbucket.org/
+
+Machine Learning and AI
+
+https://huggingface.co/ (as you mentioned)
+https://www.tensorflow.org/
+https://pytorch.org/
+https://scikit-learn.org/
+https://www.kaggle.com/
+
+Online Communities and Forums
+
+https://stackoverflow.com/
+https://www.reddit.com/r/learnprogramming/
+https://www.reddit.com/r/webdev/
+https://www.quora.com/
+
+Documentation and Tutorials
+
+https://www.w3schools.com/
+https://developer.mozilla.org/
+https://docs.python.org/
+https://docs.microsoft.com/
+https://codecademy.com/
+
+IDEs and Text Editors
+
+https://visualstudio.microsoft.com/
+https://www.jetbrains.com/
+https://code.visualstudio.com/
+https://www.sublimetext.com/
+https://atom.io/
+
+Blogs and News
+
+https://medium.com/
+https://blog.github.com/ 3.https://www.freecodecamp.org/news/
+https://hackernoon.com/
+https://www.codinghorror.com/
+
+Other
+
+https://leetcode.com/ ( coding challenges)
+https://www.codewars.com/ ( coding challenges)
+https://www.pluralsight.com/ (online courses)
+https://www.udemy.com/ (online courses)
+https://www.coursera.org/ (online courses)
